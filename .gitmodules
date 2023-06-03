@@ -1,0 +1,6 @@
+[submodule "Vol1"]
+	path = Vol1
+	url = git@bitbucket.org:schilln/vol1.git
+[submodule "Vol2"]
+	path = Vol2
+	url = git@bitbucket.org:schilln/vol2.git
