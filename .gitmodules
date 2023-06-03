@@ -1,6 +1,6 @@
 [submodule "Vol1"]
 	path = Vol1
-	url = https://git@bitbucket.org:schilln/vol1.git
+	url = https://github.com/Burt360/Volume1.git
 [submodule "Vol2"]
 	path = Vol2
-	url = git@bitbucket.org:schilln/vol2.git
+	url = https://github.com/Burt360/Volume2.git
